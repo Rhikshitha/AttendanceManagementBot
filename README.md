@@ -32,6 +32,10 @@ The bot will process the attendance data and store it in a database.
 The AttendanceManagementBot is a useful tool for educational institutions looking to automate the process of tracking student attendance. By using UiPath, the bot is easy to install, modify, and use. With this bot, teachers and administrators can save time and focus on more important tasks while still having accurate attendance records.
 
 
+### Demo Video
+
+https://user-images.githubusercontent.com/75019244/234605840-a3e8a5cd-ab5d-4bc7-8370-cdd73acad527.mp4
+
 
 
 
